@@ -14,7 +14,8 @@
 <br>
 <br>
 
-##Idea principal:
+## Idea Principal
+
 <img src= "https://cdn.dribbble.com/users/1363206/screenshots/4432279/image.png" width="300">
 
 
