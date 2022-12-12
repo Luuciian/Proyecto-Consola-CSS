@@ -4,11 +4,15 @@
 
 **Es válida cualquier marca y época!**
 
+<br>
+
 ## Comenzando 🚀
 
 **Para este proyecto he decidido hacer una réplica al estilo "Cartoon"
 de nuestra querida PlayStation1**
 [Consola](https://es.wikipedia.org/wiki/PlayStation_(consola))
+<br>
+<br>
 
 ##Idea principal:
 <img src= "https://cdn.dribbble.com/users/1363206/screenshots/4432279/image.png" width="300">
@@ -22,8 +26,13 @@ de nuestra querida PlayStation1**
 * [HTML5](https://es.wikipedia.org/wiki/HTML5) - HyperText Markup Language 
 * [CSS](https://es.wikipedia.org/wiki/CSS) - Cascading Style Sheets 
 
+<br>
+<br>
+
 ## Enlace para visualizar:
 [Página]() - Previsualizar Proyecto
+<br>
+<br>
 
 
 ## Autores ✒️
