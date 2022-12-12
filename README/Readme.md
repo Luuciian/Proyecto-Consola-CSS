@@ -8,8 +8,8 @@
 
 ## Comenzando 🚀
 
-**Para este proyecto he decidido hacer una réplica al estilo "Cartoon"
-de nuestra querida PlayStation1**
+**Para este proyecto he decidido hacer una réplica al estilo "Cartoon" de nuestra querida PlayStation1**
+<br>
 [Consola](https://es.wikipedia.org/wiki/PlayStation_(consola))
 <br>
 <br>
